@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec49213-2ba9-492b-92c7-129777e24e4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\28175\IdeaProjects\人脸识别特征\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VnrtrQXkz3IZP34gAJ0w9hybuR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.rlsb.Main" />
+      <module name="人脸识别特征" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=D:/opencv/opencv/build/java/x64;D:/opencv/opencv/build/x64/vc12/bin" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec49213-2ba9-492b-92c7-129777e24e4c" name="Default Changelist" comment="" />
+      <created>1577899917502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577899917502</updated>
+      <workItem from="1577899920703" duration="3805000" />
+      <workItem from="1577974782965" duration="1642000" />
+      <workItem from="1578999967275" duration="84000" />
+      <workItem from="1583102102266" duration="1196000" />
+      <workItem from="1583103321492" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="81" key="#Main" timestamp="1577900319707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="81" key="#Main/0.0.1536.824@0.0.1536.824" timestamp="1577900319707" />
+    <state x="361" y="90" key="#Notifications" timestamp="1583103246615">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1583103246615" />
+    <state x="361" y="90" key="#Project_Structure" timestamp="1583103361755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1583103361755" />
+    <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583102111386">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1583102111386" />
+    <state x="308" y="25" key="CommitChangelistDialog2" timestamp="1583103464433">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="308" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583103464433" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1583103353086">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579000032589" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583103353085" />
+    <state x="589" y="345" width="382" height="174" key="Github.CreateGistDialog" timestamp="1583103033962">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="589" y="345" width="382" height="174" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1583103033962" />
+    <state x="630" y="322" width="275" height="288" key="Github.ShareDialog" timestamp="1583103278482">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="630" y="322" width="275" height="288" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1583103278482" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1583103301926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577976489336" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583103301926" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1583103301926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577976489336" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583103301926" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1583103301926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577976489335" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583103301926" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1583103301926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577976489336" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583103301926" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1577903728937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577903728937" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1577903728936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577903728936" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1577903728936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577903728936" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1577903728936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577903728936" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1583103241933">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577900523588" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583103241933" />
+    <state x="449" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1583103321257">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578999968603" />
+    <state x="449" y="247" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583103321257" />
+    <state x="599" y="223" key="svn.repositoryBrowser" timestamp="1583103059624">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="223" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" timestamp="1583103059624" />
+  </component>
+</project>
